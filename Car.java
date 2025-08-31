@@ -1,6 +1,4 @@
 public class Car{
-  pObject foo = new Object();
-  
   
   int noofseats;
 
