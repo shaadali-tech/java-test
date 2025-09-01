@@ -9,7 +9,7 @@ public class leftparamid {
     printreversepattern(num);
   }
 
-
+//testing
    public static void printreversepattern(int num){
     int rows=num;
     while (rows>0) {
